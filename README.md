@@ -36,5 +36,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.hristijangjorgjioski.com">My Website</a>
+<a href="https://hristijangjorgjioski.netlify.app/">My Website</a>
 </p>

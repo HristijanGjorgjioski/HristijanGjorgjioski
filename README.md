@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Web Development at home.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cryptocurrencies, Investing and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing reading, running and training as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

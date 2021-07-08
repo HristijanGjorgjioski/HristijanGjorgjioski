@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="60%" src="https://i.ibb.co/kD2qpLZ/contribution.png" />
+  <img height="180em" width="60%" src="https://i.ibb.co/CnGqDdk/opa.png" />
   <img height="180em" width="30%" src="https://i.ibb.co/kgwydVX/github.png" />
 </a>
 

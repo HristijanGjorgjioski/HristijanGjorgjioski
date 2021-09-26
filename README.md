@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Making pause from coding in the summer because of working in the local village 25km from my home.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Web Development at home.
 - 🌱 &nbsp; Learning more about Cryptocurrencies, Investing and Artificial Intelligence.

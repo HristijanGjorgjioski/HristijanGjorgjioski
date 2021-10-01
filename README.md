@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Web Development at home.
+- 🎓 &nbsp; Studying Computer Science and Web Development in [Semos Education](https://semosedu.com.mk/Home_page.aspx)
 - 🌱 &nbsp; Learning more about Cryptocurrencies, Investing and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing reading, writing, running and training as hobbies.
 

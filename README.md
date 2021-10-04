@@ -42,6 +42,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://hristijangjorgjioski.netlify.app/">My Website</a>
-</p>
+* [My Website](https://hristijangjorgjioski.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/gjorgjioski-hristijan-24a51a20b/)

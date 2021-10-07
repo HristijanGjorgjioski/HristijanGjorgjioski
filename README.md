@@ -42,6 +42,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-* [My Website](https://hristijangjorgjioski.netlify.app/)
+* [My Website](https://christiangjorgjioski.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/gjorgjioski-hristijan-24a51a20b/)
 * [Freelancer.com](https://www.freelancer.com/u/hristijan02)

@@ -44,4 +44,4 @@
 
 * [My Website](https://gjorgjioskihristijan.netlify.app/)
 * [LinkedIn](https://www.linkedin.com/in/gjorgjioski-hristijan-24a51a20b/)
-* [Freelancer.com](https://www.freelancer.com/u/hristijan02)
+* [Fiverr](https://www.fiverr.com/gjorgjioski?up_rollout=true)

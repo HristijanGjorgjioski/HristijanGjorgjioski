@@ -34,8 +34,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="60%" src="https://i.ibb.co/CnGqDdk/opa.png" />
-  <img height="180em" width="30%" src="https://i.ibb.co/kgwydVX/github.png" />
+  <img height="180em" width="60%" src="https://imgur.com/2uisgrR.png" />
+  <img height="180em" width="30%" src="https://imgur.com/bBAqw0S.png" />
 </a>
 
 <br/>

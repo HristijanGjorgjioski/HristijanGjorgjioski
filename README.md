@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Working as a React.js developer at <a>GrabIT</a>
+- 🎓 &nbsp; Working as a Software Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Cryptocurrencies, Investing and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing reading, writing, running and training as hobbies.

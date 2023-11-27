@@ -42,7 +42,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-* [My Website](https://gjorgjioskihristijan.netlify.app/)
-* [Resume(PDF)](https://www.docdroid.net/TtZCrtq/hristijangjorgjioski-cv-pdf)
+* [My Website](https://hristijangjorgjioski.com/)
 * [LinkedIn](https://www.linkedin.com/in/gjorgjioski-hristijan-24a51a20b/)
-* [Fiverr](https://www.fiverr.com/gjorgjioski?up_rollout=true)
